@@ -7,4 +7,6 @@ $ mongod
 2. Run the server
 $ node index.js
 
-3. localhost:3000
+3. Access the app using a web client
+$ cd client
+$ grunt serve
